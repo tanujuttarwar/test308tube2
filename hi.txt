@@ -4,3 +4,6 @@ this will make a project folder a git repository
 7) $ cd <folder name>
 
 8) $ git status, $ git add . , $ git rm --cached <filename>   $ git commit -m "initial commit"   $ git log to get out of log  shift + ZZ $ git log --oneline  $ git commit -a -m "msg"  $ git status -s
+
+
+9) how to make commits...

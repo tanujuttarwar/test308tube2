@@ -1,4 +1,4 @@
-6) git bash > $ git init <project folder>   
+10) git bash > $ git init <project folder>   
 this will make a project folder a git repository
 
 7) $ cd <folder name>
